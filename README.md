@@ -5,4 +5,4 @@
 
 ## 链接
 
-<a href="[https://example.com](https://ironluna.github.io/knockknock-simulator/)" target="_blank" rel="noopener noreferrer">访问项目</a>
+<a href="[https://example.com](https://ironluna.github.io/knockknock-simulator/)" target="_blank" rel="noopener noreferrer">访问项目/a>
