@@ -4,4 +4,4 @@
 
 链接见下
 
-<https://ironluna.github.io/knockknock-simulator/>
+[链接](https://ironluna.github.io/knockknock-simulator/)
