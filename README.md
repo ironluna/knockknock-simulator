@@ -2,4 +2,10 @@
 
 尽可能模仿了绝区零风格，只能用于自娱自乐。
 
-<a href="https://ironluna.github.io/knockknock-simulator/" target="_blank" rel="noopener noreferrer">点击这里访问网站</a>
+字体可商用，非原版但比较接近；头像需要使用者自行上传，截图请使用自己习惯使用的工具，该模拟器内不提供截图服务。
+
+链接
+
+https://ironluna.github.io/knockknock-simulator/
+
+（建议右键→在新标签页中打开）
